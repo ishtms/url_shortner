@@ -23,4 +23,4 @@ __Before opening any issue, please search for existing [issues](https://github.c
 ## License
 
 Free software. Do whatever the hell you want with it.  
-YOURLS is released under the [MIT license](LICENSE).
+URL Shortner is released under the [MIT license](LICENSE).
